@@ -29,7 +29,7 @@ int main(int ac, char **av)
         }
 
         fflush(stdout);
-        usleep(100000); // 0.1s delay
+        usleep(100000);
         t += 0.3;
     }
     return (0);
