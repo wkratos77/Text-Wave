@@ -10,7 +10,7 @@ Each character moves up and down smoothly using a sine function, creating a flow
 - Fun visual effect in pure C
 
 ## 🛠 Build & Run
-```bash```
+```bash
 gcc -Wall -Wextra -Werror text_wave.c -o text_wave -lm
 
 ./text_wave "Hello 42!"
